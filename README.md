@@ -1,7 +1,7 @@
 <div align="center">
 
 # PI Eletro REC
-#### A digital system for scheduling recyclable material pickups
+#### A digital system for scheduling recyclable material collection
 
 </div>
 
@@ -40,5 +40,5 @@ The system promotes sustainability, social inclusion, and technological innovati
 1. Install the app from a virtual store ([Google Play](https://play.google.com/store/apps), [App Store](https://www.apple.com/br/app-store/))
 2. Create your account
 3. Start using
-    - Schedule material pickups
+    - Schedule material collection
     - Check recycling stats
